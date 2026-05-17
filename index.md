@@ -8,8 +8,7 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+vocabulary use, learning, teaching, and processing; epicene pronouns (use, perception, learning, teaching, and processing); academic writing (emotion, genre analysis, and meta-discourse analysis); generative AI in second language education
 
 ## News
 
