@@ -55,10 +55,16 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 - Glueckert, K., Holton, J., **Sun, H.**, & Schutzman, C. (2024, September). *ARP ESSER Extended Learning and Recovery: Phase 2 Analysis Report*. Cincinnati, Ohio: Evaluation Services Center, University of Cincinnati.
 
 ## Awards (selected)
-- Evelyn Wenzel Memorial Scholarship Fund (Graduate), CECH, University of Cincinnati, 2026-2027 academic year ($1,000)
-- “Be the Change” Scholarship, CECH, University of Cincinnati, 2026-2027 academic year ($1,000)
+- Evelyn Wenzel Memorial Scholarship Fund (Graduate), CECH, University of Cincinnati, 2026-2027 ($1,000)
+- “Be the Change” Scholarship, CECH, University of Cincinnati, 2026-2027 ($1,000)
 - Graduate Student Conference Travel Award, University of Cincinnati, 2024 ($2,200), 2025 ($1,800)
 - Ohio TESOL Conference Full-Time Student Grant Award, 2024 ($90)
 - National Scholarship for Graduate Students, Ministry of Education, China, 2016 (¥20,000 ≈ $2,857)
 
-
+## Pofessional Membership
+- American Association for Applied Linguistics (AAAL, 2024-present)
+- Asia Teaching English as a Foreign Language (TEFL, 2024-present)
+- Ohio Teaching English to Speakers of Other Languages (Ohio TESOL, 2024-present)
+- The ‌International TESOL Union (ITU, 2025-present)
+- Association for Reading and Writing in Asia (ARWA, 2025-present)
+- Association for Diversity in Linguistics (2025-present)
