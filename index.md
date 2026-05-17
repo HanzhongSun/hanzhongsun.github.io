@@ -51,6 +51,6 @@ I am a Ph.D. student at ...
 - **Sun, H.**, & Pae, H. K. (2023). Vocabulary in the foreign language curriculum: Principles for effective instruction. *System*, *115*, Article 103060. (SSCI Q1) [Link](https://doi.org/10.1016/j.system.2023.103060) 
 - **Sun, H.**, Fang, S., & Pae, H. K. (2022). Cross-linguistic influence and second language learning. *System*, *110*, Article 102927. (SSCI Q1) [Link](https://doi.org/10.1016/j.system.2022.102927) 
 
-
-
+**Report**
+- Glueckert, K., Holton, J., **Sun, H.**, & Schutzman, C. (2024, September). *ARP ESSER Extended Learning and Recovery: Phase 2 Analysis Report*. Cincinnati, Ohio: Evaluation Services Center, University of Cincinnati.
 
