@@ -43,7 +43,7 @@ I am a Ph.D. student at ...
 **Book Reviews**
 - **Sun, H.**, Pae, H. K., & Tian, L. (2026). Adaptable English language teaching: Advances and frameworks for responding to new circumstances. *ELT Journal*. Advance online publication. (SSCI Q1; A&HCI) [Link](https://doi.org/10.1093/elt/ccag018) 
 - **Sun, H.**, Fang, S., & Pae, H. K. (2026). Doing vocabulary research. *Applied Linguistics*. Advance online publication. (SSCI Q1) [Link](https://doi.org/10.1093/applin/amag028) 
-- **Sun, H.**, & Pae, H. K. (2025). Corpora, collocation, and language learning. *The Journal of Asia TEFL*, *22*(1), 199–202. (ESCI; Scopus Q2) [Link](https://doi.org/10.18823/asiatefl.2025.22.1.16.199)  
+- **Sun, H.**, & Pae, H. K. (2025). Corpora, collocation, and language learning. *The Journal of Asia TEFL*, *22*(1), 199–202. (ESCI; Scopus Q2) [Link](https://doi.org/10.18823/asiatefl.2025.22.1.16.199), [PDF](assets/Collocations-corpora-and-language-learning.pdf)
 - **Sun, H.**, & Pae, H. K. (2024). Creativity in second language acquisition. *System*, *123*, Article 103315. 
 (SSCI Q1) [Link](https://doi.org/10.1016/j.system.2024.103315) 
 - **Sun, H.**, & Pae, H. K. (2024). English L2 vocabulary learning and teaching: Concepts, principles, and pedagogy. *TESOL Journal*, *15*(4), Article e804. (ESCI; Scopus Q1) [Link](https://doi.org/10.1002/tesj.804) 
