@@ -14,7 +14,7 @@ I am a Ph.D. student at ...
 - **Generative AI in second language education**
 
 ## Publications
-
+**Peer-Reviewed Journal Articles**
 - Pae, H.K., Xia, D., **Sun, H.**, Chen, Y., …Sedaghat, A.R. (53 authors)  (2026) Translation and cross-cultural adaptation of the Chronic Rhinosinusitis Control Test for global use. *International Forum of Allergy & Rhinology*. (SCI Q1, IF = 6.8)
 - Xia, D., Chen, Y., **Sun, H.**, Pae, H.K. (2026). Both quantity and quality matter: Investigating the presence and effectiveness of key argumentative elements in students’ persuasive writing. *International Journal of Applied Linguistics*. Advance online publication. https://doi.org/10.1111/ijal.70174. (SSCI Q1, IF = 1.7; A&HCI; Scopus Q1)
 - **Sun, H.**, Fang, S., & Pae, H. K. (2026). Chinese EFL learners’ use of English synonyms: A mixed methods study. *International Journal of TESOL Studies*. *8*(3), 29–47. https://doi.org/10.58304/ijts.250524 (Scopus Q1)
@@ -24,7 +24,14 @@ I am a Ph.D. student at ...
 - **Sun, H.**, & Pae, H. K. (2025). Never judge a person by his, his or her, or their appearance: Spotlighting the use of gender-neutral pronouns among learners of English. *The Journal of Asia TEFL*, *22*(1), 113–122. https://doi.org/10.18823/asiatefl.2025.22.1.7.113 (Scopus Q2)
 - **Sun, H.**, & Fang, S. (2022). Paired-associate second language vocabulary learning: The role of L1 translation familiarity. The *Journal of Asia TEFL*, *19*(1), 50–65. http://doi.org/10.18823/asiatefl.2022.19.1.4.50 (ESCI; Scopus Q2)
 - **Sun, H.**, & Fang, S. (2021). What constitutes vocabulary learning difficulty? A classroom-based study of semantic relatedness and L1 familiarity effects on L2 word learning. *Australian Journal of Applied Linguistics*, *4*(3), 82–102. https://doi.org/10.29140/ajal.v4n3.545
-- **Sun, H.** (2020). Is L2 exposure always a strong modulator of L1 influence? Evidence from Chinese EFL learners acquiring English collocations. *International Journal of English Linguistics*, *10*(5), 23–38. https://doi.org/10.5539/ijel.v10n5p23 
+- **Sun, H.** (2020). Is L2 exposure always a strong modulator of L1 influence? Evidence from Chinese EFL learners acquiring English collocations. *International Journal of English Linguistics*, *10*(5), 23–38. https://doi.org/10.5539/ijel.v10n5p23
+
+**Book Chapters**
+- Pae, H. K., Xia, D., **Sun, H.**, & Allen, E. (2026). BE-yond orthographic simplicity: A corpus-based analysis of copula BE overuse in ESL writing by native Chinese speakers. In T. Liu, M. Chen, & Y. Tono (Eds.). *Corpus linguistics in Asian contexts*. Springer.
+- Pae, H. K., Tian, L., Xia, D., & **Sun, H**. (2026). Educational equity and efficacy: Addressing academic standards in and through project-based learning and teaching. In G. H. Beckett & H. K. Pae (Eds.). *Project-based learning in language and content teacher education: Interdisciplinary and multimodal perspectives* (pp. 19–36). Routledge. https://doi.org/10.4324/9781003636588-3 
+- Pae, H. K., **Sun, H.**, & Babu, M. (2026). The role of syllables in Korean word recognition and reading: A meta-analysis. In H. Wiskel & H. K. Pae (Eds). *Handbook of nonlinear writing system—Complex processes and learning challenges*. Springer. 
+- Pae, H. K., & **Sun, H**. (2025). Beyond script universality: A meta-analysis of transposition effects on visual word recognition in Hangul. In H. K. Pae, H. Winskel, & S. Y. Kim (Eds.). *Handbook on the Korean language and literacy: Insights into Hangul and text processing* (pp. 211–235). Springer. https://doi.org/10.1007/978-3-031-88087-2_11 
+
 
 
 
