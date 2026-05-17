@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Ph.D. candidate in the Second Language Studies program at the School of Education, College of Education, Criminal Justice, and Human Services (CECH), University of Cincinnati (UC). I am a second language reseacher and educator. My research centers on (instructed) second language acquisition, applied linguistics, psycholinguistics, and English for academic purposes. Before joining in this doctoral program, I taught English-as-a-foreign-language courses in China for six years.
 
 ## Research Interests
 
