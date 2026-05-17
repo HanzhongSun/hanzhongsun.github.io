@@ -8,8 +8,8 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-second language vocabulary: use, learning, teaching, and processing
-epicene pronouns: use, perception, learning, teaching, and processing
+- **[Second language vocabulary]** use, learning, teaching, and processing
+- **[Epicene pronouns]** use, perception, learning, teaching, and processing
 academic writing: emotion, genre analysis, and meta-discourse analysis
 generative AI in second language education
 
