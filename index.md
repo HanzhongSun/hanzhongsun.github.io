@@ -14,7 +14,7 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 - **Generative AI in second language education**
 
 ## Research Grants
-- The University of Cincinnati’s Graduate College and Office of Research 2025-2026 University Research Council (URC) Graduate Student Stipend and Research Cost Program for Faculty-Student Collaboration ($8,500, in progress)
+- The University of Cincinnati’s Graduate College and Office of Research 2025-2026 University Research Council (URC) Graduate Student Stipend and Research Cost Program for Faculty-Student Collaboration ($8,500, in progress) *Note: The University of Cincinnati’s oldest and most prestigious internal funding mechanism*
 - CECH 2025-2026 Graduate Student and Faculty Mentoring Grant ($1,000, in progress)
 - CECH 2024-2025 Graduate Student and Faculty Mentoring Grant ($2,000, in progress)
 - CECH 2023-2024 Graduate Student and Faculty Mentoring Grant ($1,000, completed)
