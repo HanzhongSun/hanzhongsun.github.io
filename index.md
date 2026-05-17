@@ -32,6 +32,17 @@ I am a Ph.D. student at ...
 - Pae, H. K., **Sun, H.**, & Babu, M. (2026). The role of syllables in Korean word recognition and reading: A meta-analysis. In H. Wiskel & H. K. Pae (Eds). *Handbook of nonlinear writing system—Complex processes and learning challenges*. Springer. 
 - Pae, H. K., & **Sun, H**. (2025). Beyond script universality: A meta-analysis of transposition effects on visual word recognition in Hangul. In H. K. Pae, H. Winskel, & S. Y. Kim (Eds.). *Handbook on the Korean language and literacy: Insights into Hangul and text processing* (pp. 211–235). Springer. https://doi.org/10.1007/978-3-031-88087-2_11 
 
+**Book Reviews**
+- **Sun, H.**, Pae, H. K., & Tian, L. (2026). Adaptable English language teaching: Advances and frameworks for responding to new circumstances. ELT Journal. Advance online publication. https://doi.org/10.1093/elt/ccag018 (SSCI Q1; A&HCI)
+- **Sun, H.**, Fang, S., & Pae, H. K. (2026). Doing vocabulary research. Applied Linguistics. Advance online publication. https://doi.org/10.1093/applin/amag028 (SSCI Q1)
+- **Sun, H.**, & Pae, H. K. (2025). Corpora, collocation, and language learning. *The Journal of Asia TEFL*, *22*(1), 199–202. https://doi.org/10.18823/asiatefl.2025.22.1.16.199  (ESCI; Scopus Q2)
+- **Sun, H.**, & Pae, H. K. (2024). Creativity in second language acquisition. *System*, *123*, Article 103315. 
+https://doi.org/10.1016/j.system.2024.103315 (SSCI Q1)
+- **Sun, H.**, & Pae, H. K. (2024). English L2 vocabulary learning and teaching: Concepts, principles, and pedagogy. *TESOL Journal*, *15*(4), Article e804. https://doi.org/10.1002/tesj.804 (ESCI; Scopus Q1)
+- **Sun, H.**, Fang, S., & Pae, H. K. (2023). Research methods in vocabulary studies. *The Social Science Journal*. Advance online publication. https://doi.org/10.1080/03623319.2023.22 78281 (SSCI Q2)
+- **Sun, H.**, & Pae, H. K. (2023). Vocabulary in the foreign language curriculum: Principles for effective instruction. *System*, *115*, Article 103060. https://doi.org/10.1016/j.system.2023.103060 (SSCI Q1)
+- **Sun, H.**, Fang, S., & Pae, H. K. (2022). Cross-linguistic influence and second language learning. *System*, *110*, Article 102927. https://doi.org/10.1016/j.system.2022.102927 (SSCI Q1)
+
 
 
 
