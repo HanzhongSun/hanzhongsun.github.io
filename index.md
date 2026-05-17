@@ -13,6 +13,14 @@ I am a Ph.D. student at ...
 - **Academic writing** (emotion, genre analysis, and meta-discourse analysis)
 - **Generative AI in second language education**
 
+## Research Grants
+- CECH 2025-2026 Graduate Student and Faculty Mentoring Grant ($1,000, in progress)
+- The University of Cincinnati’s Graduate College and Office of Research 2025-2026 University Research Council (URC) Graduate Student Stipend and Research Cost Program for Faculty-Student Collaboration ($8,500, in progress)
+- CECH 2024-2025 Graduate Student and Faculty Mentoring Grant ($2,000, in progress)
+- CECH 2023-2024 Graduate Student and Faculty Mentoring Grant ($1,000, completed)
+- University-Level Teaching Reform Project of Quzhou University, 2019 (￥5,000 ≈ ￥715，completed）
+- Zhejiang Provincial Education Science Research Project, 2018 (￥2,000 ≈ ￥285 completed)
+
 ## Publications
 **Peer-Reviewed Journal Articles**
 - Pae, H.K., Xia, D., **Sun, H.**, Chen, Y., …Sedaghat, A.R. (53 authors)  (2026) Translation and cross-cultural adaptation of the Chronic Rhinosinusitis Control Test for global use. *International Forum of Allergy & Rhinology*. (SCI Q1, IF = 6.8)
