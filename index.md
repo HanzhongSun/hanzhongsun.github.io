@@ -19,7 +19,7 @@ I am a Ph.D. student at ...
 - CECH 2024-2025 Graduate Student and Faculty Mentoring Grant ($2,000, in progress)
 - CECH 2023-2024 Graduate Student and Faculty Mentoring Grant ($1,000, completed)
 - University-Level Teaching Reform Project of Quzhou University, 2019 (￥5,000 ≈ $715，completed）
-- Zhejiang Provincial Education Science Research Project, 2018 (￥2,000 ≈ $285 completed)
+- Zhejiang Provincial Education Science Research Project, 2018 (￥2,000 ≈ $285, completed)
 
 ## Publications
 **Peer-Reviewed Journal Articles**
