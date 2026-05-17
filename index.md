@@ -10,8 +10,8 @@ I am a Ph.D. student at ...
 
 - **[Second language vocabulary]** use, learning, teaching, and processing
 - **[Epicene pronouns]** use, perception, learning, teaching, and processing
-academic writing: emotion, genre analysis, and meta-discourse analysis
-generative AI in second language education
+- **[Academic writing]** emotion, genre analysis, and meta-discourse analysis
+- **[generative AI in second language education]**
 
 ## News
 
