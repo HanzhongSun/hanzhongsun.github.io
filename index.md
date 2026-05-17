@@ -8,9 +8,9 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Second language vocabulary** use, learning, teaching, and processing
-- **Epicene pronouns** use, perception, learning, teaching, and processing
-- **Academic writing** emotion, genre analysis, and meta-discourse analysis
+- **Second language vocabulary** (use, learning, teaching, and processing)
+- **Epicene pronouns** (use, perception, learning, teaching, and processing)
+- **Academic writing** (emotion, genre analysis, and meta-discourse analysis)
 - **Generative AI in second language education**
 
 ## Publications
