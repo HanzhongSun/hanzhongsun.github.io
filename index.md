@@ -18,8 +18,8 @@ I am a Ph.D. student at ...
 - The University of Cincinnati’s Graduate College and Office of Research 2025-2026 University Research Council (URC) Graduate Student Stipend and Research Cost Program for Faculty-Student Collaboration ($8,500, in progress)
 - CECH 2024-2025 Graduate Student and Faculty Mentoring Grant ($2,000, in progress)
 - CECH 2023-2024 Graduate Student and Faculty Mentoring Grant ($1,000, completed)
-- University-Level Teaching Reform Project of Quzhou University, 2019 (￥5,000 ≈ ￥715，completed）
-- Zhejiang Provincial Education Science Research Project, 2018 (￥2,000 ≈ ￥285 completed)
+- University-Level Teaching Reform Project of Quzhou University, 2019 (￥5,000 ≈ $715，completed）
+- Zhejiang Provincial Education Science Research Project, 2018 (￥2,000 ≈ $285 completed)
 
 ## Publications
 **Peer-Reviewed Journal Articles**
