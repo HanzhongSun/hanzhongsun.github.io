@@ -13,7 +13,7 @@ I am a Ph.D. student at ...
 - **Academic writing** emotion, genre analysis, and meta-discourse analysis
 - **Generative AI in second language education**
 
-## News
+## Publications
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
