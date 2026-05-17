@@ -15,10 +15,7 @@ I am a Ph.D. student at ...
 
 ## Publications
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Pae, H.K., Xia, D., **Sun, H.**, Chen, Y., …Sedaghat, A.R. (53 authors)  (2026) Translation and cross-cultural adaptation of the Chronic Rhinosinusitis Control Test for global use. *International Forum of Allergy & Rhinology*. (SCI Q1, IF = 6.8)
 
 {% include_relative _includes/publications.md %}
 
