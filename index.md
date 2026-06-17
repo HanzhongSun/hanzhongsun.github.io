@@ -66,6 +66,6 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 - American Association for Applied Linguistics (AAAL, 2024-present)
 - Asia Teaching English as a Foreign Language (TEFL, 2024-present)
 - Ohio Teaching English to Speakers of Other Languages (Ohio TESOL, 2024-present)
-- The ‌International TESOL Union (ITU, 2025-present)
+- The International TESOL Union (ITU, 2025-present)
 - Association for Reading and Writing in Asia (ARWA, 2025-present)
 - Association for Diversity in Linguistics (2025-present)
