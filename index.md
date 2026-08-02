@@ -39,7 +39,7 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 **Book Chapters**
 - Pae, H. K., Xia, D., **Sun, H.**, & Allen, E. (2026). BE-yond orthographic simplicity: A corpus-based analysis of copula BE overuse in ESL writing by native Chinese speakers. In T. Liu, M. Chen, & Y. Tono (Eds.). *Corpus linguistics in Asian contexts*. Springer.
 - Pae, H. K., Tian, L., Xia, D., & **Sun, H**. (2026). Educational equity and efficacy: Addressing academic standards in and through project-based learning and teaching. In G. H. Beckett & H. K. Pae (Eds.). *Project-based learning in language and content teacher education: Interdisciplinary and multimodal perspectives* (pp. 19–36). Routledge. [Link](https://doi.org/10.4324/9781003636588-3) 
-- Pae, H. K., **Sun, H.**, & Babu, M. (2026). The role of syllables in Korean word recognition and reading: A meta-analysis. In H. Wiskel & H. K. Pae (Eds). *Handbook of nonlinear writing system—Complex processes and learning challenges*. Springer. 
+- Pae, H. K., **Sun, H.**, & Babu, M. (2026). The role of syllables in Korean word recognition and reading: A meta-analysis. In H. Wiskel & H. K. Pae (Eds). *Handbook of nonlinear writing system—Complex processes and learning challenges* (pp. 407–429). Springer. [Link](https://doi.org/10.1007/978-3-032-01973-8_20)
 - Pae, H. K., & **Sun, H**. (2025). Beyond script universality: A meta-analysis of transposition effects on visual word recognition in Hangul. In H. K. Pae, H. Winskel, & S. Y. Kim (Eds.). *Handbook on the Korean language and literacy: Insights into Hangul and text processing* (pp. 211–235). Springer. [Link](https://doi.org/10.1007/978-3-031-88087-2_11)
 
 **Book Reviews**
