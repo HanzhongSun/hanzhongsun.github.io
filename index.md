@@ -8,7 +8,7 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 
 ## Research Interests
 
-- **Epicene pronouns** (use, perception, learning, teaching, and processing)
+- **Gender and language** (epicene pronouns, including use, perception, learning, teaching, and processing)
 - **Second language vocabulary** (use, learning, teaching, and processing)
 - **Academic writing** (meta-discourse, emotion, genre analysis)
 - **Generative AI in second language education**
