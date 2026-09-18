@@ -16,6 +16,7 @@ My research broadly examines how language is learned, used, and shaped by power.
 - CECH 2025-2026 Graduate Student and Faculty Mentoring Grant ($1,000, in progress)
 - CECH 2024-2025 Graduate Student and Faculty Mentoring Grant ($2,000, in progress)
 - CECH 2023-2024 Graduate Student and Faculty Mentoring Grant ($1,000, completed)
+*Note: The CECH Graduate Student and Faculty Research Mentoring Grant is a small internal research grant offered to support faculty-mentored graduate student research and strengthen the student–faculty research relationship.*
 - University-Level Teaching Reform Project of Quzhou University, 2019 (￥5,000 ≈ $715，completed）
 - Zhejiang Provincial Education Science Research Project, 2018 (￥2,000 ≈ $285, completed)
 
