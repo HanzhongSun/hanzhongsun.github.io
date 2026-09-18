@@ -8,7 +8,7 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 
 ## Research Interests
 
-My research broadly examines how language is learned, used, and shaped by power. A central strand of my work focuses on epicene pronouns, exploring how gender bias is reproduced, negotiated, and potentially challenged through everyday linguistic choices. As a multilingual learner, educator, and researcher, I am also interested in academic writing, particularly how writers construct meaning, position themselves, express stance and emotion, and navigate disciplinary and genre expectations. 
+My research broadly centers on language learning, language use, and power. My current projects focus particularly on how gender bias is reproduced and negotiated through the use of epicene pronouns. In addition, as a multilingual learner, educator, and researcher, I am interested in academic writing, especially how writers use language to construct meaning, express stance and emotion, and respond to disciplinary and genre expectations.
 
 
 ## Research Grants
