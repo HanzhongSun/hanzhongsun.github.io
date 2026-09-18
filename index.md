@@ -8,10 +8,8 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 
 ## Research Interests
 
-- **Gender and language** (epicene pronouns, including use, perception, learning, teaching, and processing)
-- **Second language vocabulary** (use, learning, teaching, and processing)
-- **Academic writing** (meta-discourse, emotion, genre analysis)
-- **Generative AI in second language education**
+- My research broadly examines how language is learned, used, and shaped by power. A central strand of my work focuses on epicene pronouns, exploring how gender bias is reproduced, negotiated, and potentially challenged through everyday linguistic choices. As a multilingual learner, educator, and researcher, I am also interested in academic writing, particularly how writers construct meaning, position themselves, express stance and emotion, and navigate disciplinary and genre expectations. 
+
 
 ## Research Grants
 - The University of Cincinnati’s Graduate College and Office of Research 2025-2026 University Research Council (URC) Graduate Student Stipend and Research Cost Program for Faculty-Student Collaboration ($8,500, in progress) *Note: The University of Cincinnati’s oldest and most prestigious internal funding mechanism*
