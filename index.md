@@ -8,8 +8,7 @@ I am currently a Ph.D. candidate in the Second Language Studies program at the S
 
 ## Research Interests
 
-My research broadly centers on language learning, language use, and power. My current projects focus particularly on how gender bias is reproduced and negotiated through the use of epicene pronouns. In addition, as a multilingual learner, educator, and researcher, I am interested in academic writing, especially how writers use language to construct meaning, express stance and emotion, and respond to disciplinary and genre expectations.
-
+My research broadly centers on language learning, teaching, and use, with particular attention to how these intersect with issues of language and power. My current projects focus especially on the use of epicene pronouns and how their use relates to gender inclusivity and bias in language, drawing on corpus linguistic, experimental, and mixed methods approaches. In addition, as a multilingual learner, educator, and researcher, I am interested in academic writing, particularly how writers use linguistic resources to construct meaning, express stance and emotion, and navigate disciplinary and genre-specific expectations.
 
 ## Research Grants
 - The University of Cincinnati’s Graduate College and Office of Research 2025-2026 University Research Council (URC) Graduate Student Stipend and Research Cost Program for Faculty-Student Collaboration ($8,500, in progress)
