@@ -7,8 +7,12 @@ layout: homepage
 I am currently a Ph.D. candidate in the Second Language Studies program at the School of Education, College of Education, Criminal Justice, and Human Services (CECH), University of Cincinnati (UC), advised by Dr. Hye K. Pae. I am a second language reseacher and educator. Before joining in this doctoral program, I taught English-as-a-foreign-language courses in China for six years.
 
 ## Research Interests
+- Sociolinguistics (language and power)
+- Corpus Linguistics (language and use)
+- Psycholinguistics (language processing)
+- English for Academic Purposes (academic writing)
 
-My research broadly centers on language learning, teaching, and use, with particular attention to how these processes intersect with issues of *language and power*. I am also interested in how generative AI may shape, reproduce, or challenge existing dynamics of *language and power*. My current projects focus especially on the use of epicene pronouns—forms used to refer to individuals whose gender is unknown or unspecified—and on how their use relates to gender inclusivity and bias in language. Methodologically, I draw on corpus linguistic, experimental, and mixed methods approaches. In addition, as a multilingual learner, educator, and researcher, I am interested in academic writing, particularly in how writers use linguistic resources to construct meaning, express stance and emotion, and navigate disciplinary and genre-specific expectations.
+My research broadly centers on language learning, teaching, and use, with particular attention to how these processes intersect with issues of *language and power*. I am also interested in how generative AI may shape, reproduce, or challenge existing dynamics of *language and power*. My current projects focus especially on the use of epicene pronouns—forms used to refer to individuals whose gender is unknown or unspecified—and on how their use relates to gender inclusivity and bias in language. Methodologically, I draw on corpus linguistic, experimental, and mixed methods approaches. In addition, as a multilingual learner, educator, and researcher, I am interested in how writers use linguistic resources to construct meaning, express stance and emotion, and navigate disciplinary and genre-specific expectations.
 
 ## Research Grants
 - The University of Cincinnati’s Graduate College and Office of Research 2025-2026 University Research Council (URC) Graduate Student Stipend and Research Cost Program for Faculty-Student Collaboration ($8,500, in progress)
