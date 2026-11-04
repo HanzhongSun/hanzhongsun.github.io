@@ -80,6 +80,7 @@ As a multilingual learner, educator, and researcher, I am also interested in **a
 - *Glueckert, K., Holton, J., Schutzman, C., & **Sun, H**. Learning recovery: Preliminary case study overview. Ohio Evaluation Services Center Program Cabinet, Ohio, the United States [Invited talk] (4/4/2024)
 
 ## Awards (selected)
+- Charles A. Salie and Charlene A. Tucker Scholarship Fund (Graduate), CECH, University of Cincinnati, 2026-2027 academic year ($1,000)
 - Evelyn Wenzel Memorial Scholarship Fund (Graduate), CECH, University of Cincinnati, 2026-2027 ($1,000)
 - “Be the Change” Scholarship, CECH, University of Cincinnati, 2026-2027 ($1,000)
 - Graduate Student Conference Travel Award, University of Cincinnati, 2024 ($2,200), 2025 ($1,800)
