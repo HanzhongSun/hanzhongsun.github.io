@@ -83,7 +83,7 @@ As a multilingual learner, educator, and researcher, I am also interested in **a
 - Charles A. Salie and Charlene A. Tucker Scholarship Fund (Graduate), CECH, University of Cincinnati, 2026-2027 academic year ($1,000)
 - Evelyn Wenzel Memorial Scholarship Fund (Graduate), CECH, University of Cincinnati, 2026-2027 ($1,000)
 - “Be the Change” Scholarship, CECH, University of Cincinnati, 2026-2027 ($1,000)
-- Graduate Student Conference Travel Award, University of Cincinnati, 2024 ($2,200), 2025 ($1,800)
+- Graduate Student Conference Travel Award, University of Cincinnati, 2026 ($1,500), 2025 ($1,800), 2024 ($2,200)
 - Ohio TESOL Conference Full-Time Student Grant Award, 2024 ($90)
 - National Scholarship for Graduate Students, Ministry of Education, China, 2016 (¥20,000 ≈ $2,857)
 
