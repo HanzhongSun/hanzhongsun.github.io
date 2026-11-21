@@ -28,6 +28,7 @@ As a multilingual learner, educator, and researcher, I am also interested in **a
 
 ## Publications
 **Peer-Reviewed Journal Articles**
+- Pae, H. K., **Sun, H.**, Xia, D., & Sedaghat, A. R. (2026). From translation quality to cognitive competence: What can we infer about generative AI’s functional cognitive mechanisms from translation? *Frontiers in Psychology*, *17*, Article 1956306. (SSCI Q1, IF = 3.8) [Link](https://doi.org/10.3389/fpsyg.2026.1956306) 
 - **Sun, H.**, Xia, D., & Pae, H. K. (2026). Who gets '*they*'? Epicene pronoun use in essays by U.S. secondary school ESL students. *Language Awareness*. Advance online publication. (SSCI Q1, IF = 3.0; A&HCI; Scopus Q1) [one-page summary](https://www.oasis-database.org/details/iv6gsp9ej) [Link](https://doi.org/10.1080/09658416.2026.2759194)
 - Xia, D., **Sun, H.**, Pae, H.K., Chen, Y. (2026). "I hope this email finds you well": Exploring the role of GenAI in student-faculty email communication. *English for Specific Purposes*, *84*, 260–278. (SSCI Q1, IF = 3.0) [Link](https://doi.org/10.1016/j.esp.2026.07.004)
 - **Sun, H.**, Cheng, W., Pae, H. K., & Wang, L. (2026). Unlocking ChatGPT’s potential to promote gender-inclusive language: Comparative analysis of epicene pronoun use by Chinese EFL learners and ChatGPT. *International Journal of Applied Linguistics*. Advance online publication. (SSCI Q1, IF = 3.8; A&HCI; Scopus Q1) [Link](https://doi.org/10.1111/ijal.70258 )
